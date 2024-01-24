@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kN65NqGkOyMC2j8jRXiHXJJoFFzbsmJjlk1c7w8qacO19m+3dk5+5izUislTLy+oHN3A24H0WUNGVOsZarc6Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Documents\\git\\tesprakrtik\\tesprakrtik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
